@@ -1,0 +1,23 @@
+{
+  "name": "rfp-management-system",
+  "version": "1.0.0",
+  "description": "AI-Powered RFP Management System",
+  "scripts": {
+    "setup": "echo Please run 'cd backend && npm install' and 'cd frontend && npm install' separately",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "rfp",
+    "procurement",
+    "ai",
+    "openai",
+    "gpt-4",
+    "react",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
